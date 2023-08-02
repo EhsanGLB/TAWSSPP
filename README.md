@@ -2,7 +2,7 @@
 This is a post-processing for time average of wall shear stress written based on foam-extend-4.1.
 
 ## Math equation
-$$ \tau_w = \mu \nabla U . n$$
+$$ TAWSS = \int_0^T \dotsi \mid WSS \mid $$
 
 Which $\tau_w$, $\mu$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
 
