@@ -5,7 +5,7 @@ This is a post-processing for time average of wall shear stress written based on
 ## Mathematical Relationships
 $$ TAWSS = {1 \over T} \int_0^T WSS \ dt $$
 
-Which $\tau_w$, $\mu$, $U$, and $n$ are wall shear stress, dynamic viscosity, velocity vector, and perpendicular vector, respectively.
+Which $TAWSS$, $T$, $WSS$, and $t$ are time average of wall shear stress, period, wall shear stress, and time, respectively.
 
 
 ## Installation
